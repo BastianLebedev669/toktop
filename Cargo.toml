@@ -5,3 +5,4 @@ edition = "2021"
 description = "llm usage monitor in terminal"
 # handle the edge case from the last release
 # clarify the control flow
+# drop an unused branch
